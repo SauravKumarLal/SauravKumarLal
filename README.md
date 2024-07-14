@@ -30,6 +30,40 @@
 | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React.js" alt="React.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express.js" alt="Express.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="55" height="55"/> |
 
 ### Tools and Technologies:
-| Git | GitHub | VS Code | Figma | MongoDB | AWS |
+| Git | GitHub | VS Code | Figma | MongoDB | AWS | 
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="55" height="55"/> |
+
+## 📊 GitHub Stats:
+
+<div align="center">
+    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=SauravKumarLal&theme=dark&show_icons=true&hide_border=false&count_private=false">
+</div>
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+    <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=SauravKumarLal&theme=dark&hide_border=false"> 
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauravKumarLal&theme=dark&show_icons=true&hide_border=false&layout=compact">
+</div>
+
+## 🎓 Certifications
+
+<div align="center">
+    <img src="https://img.shields.io/badge/AWS-Certified%20Professional-yellow?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Professional">
+    <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-orange?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Solutions Architect - Associate">
+</div>
+
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/sauravkrlal/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/SauravKumarLal">
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/>
+  </a>
+  <a href="mailto:sauravkrlal@gmail.com">
+    <img src="https://img.icons8.com/?size=40&id=P7UIlhbpWzZm&format=png&color=000000" alt="Email"/>
+  </a>
+</div>
+
+---

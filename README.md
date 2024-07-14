@@ -49,11 +49,11 @@
 
 <div align="center">
     <div style="display: flex; justify-content: center; align-items: center;">
-        <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-yellow?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Cloud Practitioner" style="margin-right: 10px; width: 210px; height: 30px;">
+        <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-yellow?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Cloud Practitioner" style="margin-right: 10px;">
         <img src="./assets/CP.png" alt="Custom AWS Logo" style="width: 30px; height: 30px;">
     </div>
     <div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
-        <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-orange?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Solutions Architect - Associate" style="margin-right: 10px; width: 210px; height: 30px;">
+        <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-orange?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Solutions Architect - Associate" style="margin-right: 10px;">
         <img src="./assets/SAA.png" alt="Custom AWS Logo" style="width: 30px; height: 30px;">
     </div>
 </div>

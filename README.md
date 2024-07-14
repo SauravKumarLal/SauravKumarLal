@@ -45,47 +45,18 @@
     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauravKumarLal&theme=dark&show_icons=true&hide_border=false&layout=compact">
 </div>
 
-<!-- ## 🎓 Certifications
-
-<div align="center">
-    <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-yellow?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Cloud Practitioner">
-    <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-orange?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Solutions Architect - Associate">
-</div> -->
-
 ## 🎓 Certifications
 
-<div align="center" style="position: relative;">
-    <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-yellow?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Cloud Practitioner" style="margin-right: 10px;">
-    <img src="./assets/CP.png" alt="Custom AWS Logo" style="position: absolute; top: 0; right: -30px; width: 30px; height: 30px; animation: rotateCP 5s linear infinite;">
-    <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-orange?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Solutions Architect - Associate" style="margin-left: 10px;">
-    <img src="./assets/SAA.png" alt="Custom AWS Logo" style="position: absolute; top: 0; left: -30px; width: 30px; height: 30px; animation: rotateSAA 5s linear infinite;">
+<div align="center">
+    <div style="display: flex; justify-content: center; align-items: center;">
+        <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-yellow?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Cloud Practitioner" style="margin-right: 10px; width: 160px;">
+        <img src="./assets/CP.png" alt="Custom AWS Logo" style="width: 30px; height: 30px; animation: rotateCP 5s linear infinite;">
+    </div>
+    <div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
+        <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-orange?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Solutions Architect - Associate" style="margin-right: 10px; width: 210px;">
+        <img src="./assets/SAA.png" alt="Custom AWS Logo" style="width: 30px; height: 30px; animation: rotateSAA 5s linear infinite;">
+    </div>
 </div>
-
-<style>
-    @keyframes rotateCP {
-        0% {
-            transform: rotate(0deg);
-        }
-        50% {
-            transform: rotate(180deg);
-        }
-        100% {
-            transform: rotate(360deg);
-        }
-    }
-
-    @keyframes rotateSAA {
-        0% {
-            transform: rotate(0deg);
-        }
-        50% {
-            transform: rotate(-180deg);
-        }
-        100% {
-            transform: rotate(-360deg);
-        }
-    }
-</style>
 
 ## 🌐 Connect with Me
 

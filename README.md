@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Saurav Kumar Lal 💙 </h1>
+<h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, Welcome to Lal's Code Realm 💙 </h1>
 
 <div align="center">
 
@@ -6,13 +6,43 @@
 
 </div>
 
+```cpp
+#include <iostream>
+#include <string>
+#include <vector>
+using namespace std;
+
+int main() {
+    string name = "Saurav Kumar Lal";
+    string fieldOfStudy = "Computer Science";
+    string specialization = "Information Security";
+    vector<string> languagesSpoken = {"English", "Hindi", "Spanish"};
+    string description = "I'm a developer who thrives on solving interesting problems and exploring data structures.
+                          I enjoy creating clean, effective solutions and staying curious about new technologies.";
+
+    cout << "👋 Hello, I'm " << name << "!" << endl;
+    cout << "🎓 I am studying " << fieldOfStudy << " with specialization in " << specialization <<"." << endl;
+    cout << "🌐 I can speak: ";
+    for (const auto& language : languagesSpoken) {
+        cout << language << " ";
+    }
+    cout <<"." << endl;
+    cout << "💻 " << description << endl;
+    cout << "📫 Feel free to reach out to me at sauravkrlal@gmail.com." << endl;
+    cout << "🚀 Thanks for stopping by—keep coding and keep curious!" << endl;
+
+    return 0;
+}
+
+```
 
 ## 🙋‍♂️ About Me
-💻 Passionate about software development and constantly exploring new technologies.  
-🎯 Love tackling interesting and challenging problems.  
-🍀 Currently diving deep into full-stack development and enhancing my portfolio with exciting projects.  
-💞️ Always eager to collaborate on innovative projects.  
-📫 Reach me at **sauravkrlal@gmail.com**
+🌟 Welcome to my coding journey!
+💻 Passionate about software development and constantly exploring new technologies.
+🎯 Love tackling interesting and challenging problems.
+🍀 Currently diving deep into full-stack development and enhancing my portfolio with exciting projects.
+💞️ Always eager to collaborate on innovative projects.
+📫 Connect with me at **[📧](mailto:sauravkrlal@gmail.com)**
 
 ## 🚀 Languages and Tools
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=20>
@@ -20,7 +50,7 @@
 ### Languages (and how good I know them):
 | C++ | SQL | JavaScript | HTML/CSS | Java |
 |:-:|:-:|:-:|:-:|:-:|
-| 9/10 | 7/10 | 7/10 | 8/10 | 6/10 |
+| 9/10 | 9/10 | 7/10 | 8/10 | 6/10 |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C"  alt="C" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQL"  alt="SQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="55" height="55"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="55" height="55"/> |
 
 
@@ -72,4 +102,6 @@
   </a>
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>

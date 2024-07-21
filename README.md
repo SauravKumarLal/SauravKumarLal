@@ -37,12 +37,13 @@ int main() {
 ```
 
 ## 🙋‍♂️ About Me
-🌟 Welcome to my coding journey!
-💻 Passionate about software development and constantly exploring new technologies.
-🎯 Love tackling interesting and challenging problems.
-🍀 Currently diving deep into full-stack development and enhancing my portfolio with exciting projects.
-💞️ Always eager to collaborate on innovative projects.
+🌟 Welcome to my coding journey!  
+💻 Passionate about software development and constantly exploring new technologies.  
+🎯 Love tackling interesting and challenging problems.  
+🍀 Currently diving deep into full-stack development and enhancing my portfolio with exciting projects.  
+💞️ Always eager to collaborate on innovative projects.  
 📫 Connect with me at **[📧](mailto:sauravkrlal@gmail.com)**
+
 
 ## 🚀 Languages and Tools
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=20>

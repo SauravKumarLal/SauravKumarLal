@@ -1,9 +1,10 @@
 <h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, Welcome to Lal's Code Realm 💙 </h1>
-
+ 
 <div align="center">
-
+<!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?&color=2484FF&size=32&lines=Passionate+Developer💙;Innovative+Thinker⭐;Lover+Of+Coding+Problems🎯;Constantly+Learning⚡&font=Pacifico&center=true&height=50&width=600&vCenter=true)](https://github.com/SauravKumarLal)
 
+<!-- 
 </div>
 
 ```cpp
@@ -35,6 +36,7 @@ int main() {
 }
 
 ```
+-->
 
 ## 🙋‍♂️ About Me
 🌟 Welcome to my coding journey!  
